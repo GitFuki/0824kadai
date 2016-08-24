@@ -124,6 +124,11 @@ blockquote cite {
   text-transform: uppercase;
 }
 
+li a:hover {
+  color: #2b4c44;
+  border: 1px solid #2b4c44;
+}
+
 #more-content {
   display: none;
 }
